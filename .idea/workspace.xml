@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e1ed632-b7be-4a13-b296-dfceeed4ce96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Food_blog/account/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food_blog/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food_blog/account/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_site/.idea/book_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_site/order/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_site/static/img/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_site/static/img/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_site/static/img/bookshop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_site/static/img/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookshop1/.idea/bookshop1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/bookshop_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../music_proj/.idea/music_proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_3/.idea/project_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_6/.idea/project_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project_7/.idea/project_6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid_seir.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/habr/data.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/habr/infected_overview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/habr/seir_equations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/paper/daily_infected_dead_recovered_train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/paper/model_testing_results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/paper/quarantine_function.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/daily_infected_dead_recovered_train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/main_plot_daily_infections_two_strain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/model_testing_results.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/quarantine_function.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/scenario_beta2mult_detailed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/scenarios_beta2mult.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/scenarios_new_strain_ratio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../figures/presentation/scenarios_quarantine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../habr_code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prepare_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seir_hidden_moscow.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seir_moscow_hidden.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../seir_two_strain_hidden_states_moscow.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sir_models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sir_models/fitters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sir_models/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sir_models/utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IS6Y4rwfcqtkCgR4wEjxgJZ8wt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/hello/Documents/coding/Django/Food_blog"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bookshop_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e1ed632-b7be-4a13-b296-dfceeed4ce96" name="Changes" comment="" />
+      <created>1670162681804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670162681804</updated>
+    </task>
+    <servers />
+  </component>
+</project>
