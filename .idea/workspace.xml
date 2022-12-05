@@ -15,11 +15,12 @@
       <change afterPath="$PROJECT_DIR$/../book_site/static/img/bookshop.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../book_site/static/img/default.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bookshop1/.idea/bookshop1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bookshop_project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../music_proj/.idea/music_proj.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../project_3/.idea/project_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../project_6/.idea/project_5.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../project_7/.idea/project_6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../covid_seir.drawio" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data/data.csv" beforeDir="false" />
@@ -60,7 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
