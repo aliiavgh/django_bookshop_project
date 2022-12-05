@@ -34,3 +34,5 @@ class ActivationApiView(APIView):
         except User.DoesNotExist:
             return Response({'message': 'This code is incorrect!'}, status=status.HTTP_400_BAD_REQUEST)
 
+class ForgotPasswordApiView(APIView):
+    def post(self, request):
